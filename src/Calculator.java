@@ -5,4 +5,5 @@ public class Calculator {
     public static void sqrt(int a){
         System.out.println("sqrt("+a+")"+"="+Math.sqrt(a));
     }
+
 }
